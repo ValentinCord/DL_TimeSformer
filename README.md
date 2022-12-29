@@ -7,4 +7,5 @@ Optional: Analyse the database by viewing its characteristics such as class dist
 
 ### **Useful links**
 Paper : https://arxiv.org/abs/2102.05095
+
 GitHub : https://github.com/lucidrains/TimeSformer-pytorch
